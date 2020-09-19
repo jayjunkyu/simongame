@@ -1,4 +1,4 @@
-# simongame
+# The Simon Game
 
 This website is inspired by the Simon Game. https://en.wikipedia.org/wiki/Simon_(game)
 Press any key to start the game. For every round, the computer will add one sequence of color.
